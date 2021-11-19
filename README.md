@@ -10,3 +10,4 @@ The simulation results are contained in the file "output.pdf"
 Note, the CLF-CBF formulation requires a Quadratic Programming solver.
 Code is conatined implementing a QP solver using the cvxopt package
  
+<img width="459" alt="Screen Shot 2021-11-19 at 2 29 25 PM" src="https://user-images.githubusercontent.com/55464981/142680588-ee8cb8a1-18ac-4d92-906b-87a8d522c513.png">
