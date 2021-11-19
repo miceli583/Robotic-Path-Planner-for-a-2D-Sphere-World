@@ -7,4 +7,6 @@ The control paramter for the planner can be generated in 1 of 3 ways:
  using a CLF-CBF fomrulation
 
 The simulation results are contained in the file "output.pdf"
+Note, the CLF-CBF formulation requires a Quadratic Programming solver.
+Code is conatined implementing a QP solver using the cvxopt package
  
