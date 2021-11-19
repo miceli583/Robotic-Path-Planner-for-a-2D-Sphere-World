@@ -4,7 +4,7 @@ The sphere world is intilized with 5 starting locations and one goal location.
 The control paramter for the planner can be generated in 1 of 3 ways:
  using a potential based planner,
  using a navigation function,
- or using a CLF-CBF fomrulation
+ or using a CLF-CBF formulation
 
 The simulation results are contained in the file "output.pdf"
 Note, the CLF-CBF formulation requires a Quadratic Programming solver.
